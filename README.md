@@ -1,5 +1,7 @@
 # curve-fitting-on-non-scientific
-Curve fitting on a non-scientific applications (Draft)
+Curve fitting on a non-scientific applications - Draft
+
+비과학 어플리케이션에서의 곡선접합(커브피팅) - 초안
 
 ## Why?
 비과학 어플리케이션(CRM/ERP, 인프라 모니터링 시스템 등)에서 커브피팅(Curve Fitting)을 하는 것은 제한 사항이 많아 까다로운 문제로 알려져 있습니다. 가장 큰 이유로는 과학 및 공학 분야에서 많이 사용되는 소프트웨어 또는 라이브러리로 알려진 matlab, scipy, R 등의 사용이 제한되기 때문입니다.
