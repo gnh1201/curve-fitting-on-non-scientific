@@ -21,7 +21,7 @@ Curve fitting on a non-scientific applications - Draft
 ## 참고링크
 * https://stackoverflow.com/questions/2731488/curve-fitting-in-php
 * https://stackoverflow.com/questions/41913723/javascript-array-of-points-how-to-curve-fit
-* https://github.com/Pterodactylus/Alglib.js
+* https://github.com/Pterodactylus/Alglib.js - (2024-06-18 업데이트: Emscripten + Alglib 를 이용한 해결 방법)
 
 ## ChatGPT says:
 비과학 어플리케이션(CRM/ERP, 인프라 모니터링 시스템 등)에서 커브 피팅을 적용하기 위해서는 다음과 같은 주요 쟁점과 해결책을 고려해야 합니다.
